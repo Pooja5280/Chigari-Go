@@ -1,5 +1,5 @@
 ChigariGO
-ChigariGO is an advanced web application, meticulously crafted using ReactJS, designed to streamline the ticketing experience for the Chigari Bus Rapid Transit System (BRTS). The platform integrates various modules to provide a seamless and user-friendly interface, catering to the needs of both regular commuters and new users. This project was done as the
+ChigariGO is an advanced web application, meticulously crafted using ReactJS, designed to streamline the ticketing experience for the Chigari Bus Rapid Transit System (BRTS). The platform integrates various modules to provide a seamless and user-friendly interface, catering to the needs of both regular commuters and new users. This project depicts
 
 GO
 Project Demo
